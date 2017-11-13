@@ -178,7 +178,7 @@ if( tries )//when tries hit 0, player loses
             ".|........|...\n"
             ".|......./.\\..\n"
             "_|_______|_|__\n"
-            "Word \"%s\" fully guessed! You win!", word );
+            "Word \"%s\" fully guessed! You win! :-) ", word );
     }
     else
     {//losing message
