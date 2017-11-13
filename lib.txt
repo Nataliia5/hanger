@@ -1,0 +1,12 @@
+10
+cat#A pet that purrs
+dog#A pet that barks
+bycicle#Man-powered vechile with two wheels
+school#Place for kids to study
+ear#A part of body used for hearing
+eye#A part of body used for looking
+nose#A part of body used for sniffing
+tongue#A part of body used for tasting
+window#A glass panel built in wall
+fridge#Freezing crate for storing food
+
